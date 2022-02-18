@@ -1,4 +1,4 @@
-# from_notion_to_neo4j
+#From Notion To Neo4j
 
 Create a new integration in [https://www.notion.so/my-integrations](https://www.notion.so/my-integrations), then don’t forget about sharing your pages or database with your integration.
 
