@@ -2,7 +2,7 @@
 
 Notebook to add some graphs from the Notion note’s links in Neo4j. 
 
-![Neo4j](/repository/img.png?raw=true "Neo4j Bloom for visualize connection between notes in Notion")
+![Neo4j](/img.png?raw=true "Neo4j Bloom for visualize connection between notes in Notion")
 
 The article on [Medium](https://medium.com/@ivanyufryakov/from-notion-to-neo4j-70a288976813) 
 
